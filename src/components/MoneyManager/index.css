@@ -1,0 +1,143 @@
+.mainMoneyManager {
+  padding: 20px;
+}
+.sub-manager {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  padding: 20px;
+  border-radius: 8px;
+  background-size: cover;
+  margin-bottom: 10px;
+}
+.main-heading {
+  color: #475569;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.paragraph1 {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: 'Roboto';
+}
+.for-spanEl {
+  color: #0b69ff;
+  font-weight: 600;
+}
+.balance {
+  background-color: #ecfccb;
+  border: #84cc16 2px solid;
+  border-radius: 10px;
+  padding: 10px;
+  width: 190px;
+  height: 90px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-right: 10px;
+}
+.income {
+  background-color: #cffafe;
+  border: #06b6d4 2px solid;
+  border-radius: 10px;
+  padding: 10px;
+  width: 190px;
+  height: 90px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-right: 10px;
+}
+.expenses {
+  background-color: #ede9fe;
+  border: #7c3aed 2px solid;
+  border-radius: 10px;
+  padding: 10px;
+  width: 190px;
+  height: 90px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-right: 10px;
+}
+.img {
+  height: 60px;
+  width: 60px;
+  margin-right: 10px;
+}
+.bl-name {
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 400;
+}
+.bl-heading {
+  font-size: 14px;
+}
+.MoneyDetails {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.transaction {
+  border: #cbd5e1 2px solid;
+  border-radius: 10px;
+  padding: 20px;
+  max-width: 300px;
+}
+.for-label {
+  color: #7e858e;
+  font-family: 'Roboto';
+}
+.for-input {
+  height: 28px;
+  width: 190px;
+  padding: 6px;
+  border-radius: 6px;
+  border: #cbd5e1 2px solid;
+  margin-bottom: 10px;
+}
+.button {
+  background-color: #0b69ff;
+  border-radius: 6px;
+  border-width: 0px;
+  height: 30px;
+  width: 40px;
+
+  color: #ffffff;
+}
+.history {
+  border: #cbd5e1 2px solid;
+  border-radius: 10px;
+  padding: 20px;
+  min-height: 300px;
+  max-width: 600px;
+  margin-left: 40px;
+}
+.sub-div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.nameTitles {
+  border: #cbd5e1 2px solid;
+  display: flex;
+  width: 290px;
+  padding: 4px;
+  height: 40px;
+
+  flex-direction: row;
+
+  align-items: center;
+}
+.main-heading1 {
+  color: #475569;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  margin-right: 26px;
+}
+.main-heading2 {
+  color: #475569;
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin-left: 10px;
+}
